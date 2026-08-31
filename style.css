@@ -542,6 +542,11 @@ button:active {
     font-size: 5px;
     color: #ff6800;
 }
+.protfilo-cards{
+    width: 100%;
+    display: flex;
+    gap: 15px;
+}
 
 
 
